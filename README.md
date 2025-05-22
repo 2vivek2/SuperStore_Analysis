@@ -142,4 +142,4 @@ hellovivek2002@gmail.com🔗 https://www.linkedin.com/in/2vivek2/
 
 "Data is the new oil—but only if refined into insight."
 
-![Superstore Dashboard]("https://github.com/2vivek2/SuperStore_Analysis/blob/main/Superstore%20Report.PNG")
+
