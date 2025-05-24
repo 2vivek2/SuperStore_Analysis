@@ -43,6 +43,9 @@ Data modeling and calculation logic
 
 - Dimensions: Products, Categories, Customers, Regions, Dates
 
+# Power BI Report 
+![Superstore Report Dashboard](https://github.com/2vivek2/SuperStore_Analysis/blob/main/Superstore%20Report.PNG)
+
 ## 📊 Key KPIs & Metrics
 
 ## 💰 Sales Metrics
@@ -142,6 +145,6 @@ hellovivek2002@gmail.com🔗 https://www.linkedin.com/in/2vivek2/
 
 "Data is the new oil—but only if refined into insight."
 
-![Superstore Report Dashboard](https://github.com/2vivek2/SuperStore_Analysis/blob/main/Superstore%20Report.PNG)
+
 
 
